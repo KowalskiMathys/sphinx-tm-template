@@ -67,3 +67,6 @@ Il est également possible d'inclure du code dans la documentation depuis un fic
 ### Titre 2 
 
 #### Titre 3
+:::{figure} figures/make-html.png
+
+:::
